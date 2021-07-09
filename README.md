@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rgkannan676
+- 👋 Hi, I’m Kannan
 
 Highly motivated individual with an extensive experience of 7 years in software development, spearheading the development team at Oracle Corporation. Completed Masters in Artificial Intelligence from Nanyang Technological University. Proficient hands-on knowledge in Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Text data management, Multi-Agent System and Time Series Analysis.
 
