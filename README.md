@@ -2,16 +2,11 @@
 🚀 With 10+ years of experience in Artificial Intelligence and Software Development, I specialize in Deep Learning, Computer Vision, and AI model deployment. My expertise is building and optimizing AI solutions that drive real-world impact across diverse industries.
 
 🔥 What I Do:
-AI Model Training & Deployment: Expert in PyTorch, OpenCV, CUDA, TensorRT, NCNN, TorchScript
-
+AI Model Training & Deployment: Expert in PyTorch, OpenCV, CUDA, TensorRT
 Computer Vision: Classification, Object Detection, Segmentation, Shape Analysis, Edge Detection, Object Tracking
-
 LLMs & NLP: Streamlit-based QA chatbots, RAG pipelines, Hugging Face models (BERT, BART)
-
 AI Pipelines: Data augmentation, training, testing, evaluation using DVC, COCO, YOLO, BIPED
-
 Scalable AI Solutions: Translating Python models (PyTorch) into C++ for high-performance inference
-
 Software Engineering: Architecting modular, scalable AI applications (Python, C++, Java)
 
 💡 AI Projects & Innovations:
@@ -23,7 +18,7 @@ Software Engineering: Architecting modular, scalable AI applications (Python, C+
 
 🎯 Leadership & Impact:
 👨‍💻 Managing & leading AI teams for Agile AI projects
-⚡ Developed a tool that reduced data prep time by 87.5%
+⚡ Developed a tool that reduced data prep time
 🚀 Built AI-powered solutions that optimize workflows across industries
 
 📌 Always exploring cutting-edge AI research and building real-world AI applications. Let’s connect and innovate together!
